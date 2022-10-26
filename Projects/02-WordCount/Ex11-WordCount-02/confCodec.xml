@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+	<property>
+		<name>mapreduce.output.fileoutputformat.compress</name>
+		<value>true</value>
+	</property>
+
+	<property>
+		<name>mapreduce.output.fileoutputformat.compress.codec</name>
+		<value>org.apache.hadoop.io.compress.GzipCodec</value>
+	</property>
+</configuration>
