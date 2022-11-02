@@ -13,7 +13,7 @@
   <packaging>jar</packaging>
 
   <name>Ex10-WordCount-01-copy</name>
-  <description>Ex10-WordCount-01-copy.</description>
+  <description>Ex10-WordCount-01.</description>
 
   <dependencies>
     <dependency>
