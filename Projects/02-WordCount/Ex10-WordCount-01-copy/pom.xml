@@ -13,10 +13,16 @@
   <packaging>jar</packaging>
 
   <name>Ex10-WordCount-01-copy</name>
-  <description>Ex10-WordCount-01.copy</description>
+  <description>Ex10-WordCount-01-copy.</description>
 
   <dependencies>
-        <!-- Hadoop main client artifact -->
+    <dependency>
+      <groupId>cdle.wordcount.mr</groupId>
+      <artifactId>Ex12-WordCount-02-Lib</artifactId>
+      <version>2020.2021.SemInv</version>
+    </dependency>
+
+    <!-- Hadoop main client artifact -->
     <dependency>
       <groupId>org.apache.hadoop</groupId>
       <artifactId>hadoop-client</artifactId>
@@ -36,12 +42,6 @@
       <groupId>org.apache.hadoop</groupId>
       <artifactId>hadoop-minicluster</artifactId>
       <version>${hadoop.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>cdle.wordcount.mr</groupId>
-      <artifactId>Ex12-WordCount-02-Lib</artifactId>
-      <version>2020.2021.SemInv</version>
-      <scope>compile</scope>
     </dependency>
   </dependencies>
 
@@ -79,7 +79,7 @@
 		  <configuration>
             <archive>
               <manifest>
-                <mainClass>cdle.wordcount.mr.WordCountApplication</mainClass>
+                <mainClass>cdle.wordcount.mr.WordCountApplicationVer02</mainClass>
               </manifest>
             </archive>
           </configuration>

@@ -2,7 +2,7 @@
 
 source ./usage.sh > /dev/null
 
-TimeOut=5
+TimeOut=1
 
 function showMessage() {
 	echo ""

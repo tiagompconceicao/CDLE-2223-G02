@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Ex10-WordCount-01</name>
+	<name>Ex11-WordCount-02</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1602079691417</id>
+			<id>1602079691435</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
