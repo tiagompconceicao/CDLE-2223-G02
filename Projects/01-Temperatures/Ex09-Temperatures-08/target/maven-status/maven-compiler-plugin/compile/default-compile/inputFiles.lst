@@ -1,5 +1,5 @@
-C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex09-Temperatures-08\src\main\java\cdle\temperatures\mr\MaxTemperatureMapperVer01.java
-C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex09-Temperatures-08\src\main\java\cdle\temperatures\mr\NcdcRecordParser.java
-C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex09-Temperatures-08\src\main\java\cdle\temperatures\mr\MaxTemperatureDriver.java
-C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex09-Temperatures-08\src\main\java\cdle\temperatures\mr\MaxTemperatureMapperVer02.java
-C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex09-Temperatures-08\src\main\java\cdle\temperatures\mr\MaxTemperatureReducer.java
+/home/usermr/examples/Projects/01-Temperatures/Ex09-Temperatures-08/src/main/java/cdle/temperatures/mr/MaxTemperatureReducer.java
+/home/usermr/examples/Projects/01-Temperatures/Ex09-Temperatures-08/src/main/java/cdle/temperatures/mr/MaxTemperatureDriver.java
+/home/usermr/examples/Projects/01-Temperatures/Ex09-Temperatures-08/src/main/java/cdle/temperatures/mr/MaxTemperatureMapperVer01.java
+/home/usermr/examples/Projects/01-Temperatures/Ex09-Temperatures-08/src/main/java/cdle/temperatures/mr/MaxTemperatureMapperVer02.java
+/home/usermr/examples/Projects/01-Temperatures/Ex09-Temperatures-08/src/main/java/cdle/temperatures/mr/NcdcRecordParser.java

@@ -1,4 +1,4 @@
-C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\02-WordCount\Ex11-WordCount-02\src\main\java\cdle\wordcount\mr\WordCountReducerVer02.java
-C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\02-WordCount\Ex11-WordCount-02\src\main\java\cdle\wordcount\mr\WordCountMapperVer02.java
-C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\02-WordCount\Ex11-WordCount-02\src\main\java\cdle\wordcount\mr\WordCountApplicationVer02.java
-C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\02-WordCount\Ex11-WordCount-02\src\main\java\cdle\wordcount\mr\WordCountCombinerVer02.java
+/home/usermr/examples/Projects/02-WordCount/Ex11-WordCount-02/src/main/java/cdle/wordcount/mr/WordCountMapperVer02.java
+/home/usermr/examples/Projects/02-WordCount/Ex11-WordCount-02/src/main/java/cdle/wordcount/mr/WordCountReducerVer02.java
+/home/usermr/examples/Projects/02-WordCount/Ex11-WordCount-02/src/main/java/cdle/wordcount/mr/WordCountCombinerVer02.java
+/home/usermr/examples/Projects/02-WordCount/Ex11-WordCount-02/src/main/java/cdle/wordcount/mr/WordCountApplicationVer02.java
