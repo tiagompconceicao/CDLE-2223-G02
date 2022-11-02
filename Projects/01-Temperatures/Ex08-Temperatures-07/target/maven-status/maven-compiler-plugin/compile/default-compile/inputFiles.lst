@@ -1,8 +1,8 @@
-/home/usermr/examples/Projects/01-Temperatures/Ex08-Temperatures-07/src/main/java/cdle/temperatures/mr/MaxTemperatureReducer.java
-/home/usermr/examples/Projects/01-Temperatures/Ex08-Temperatures-07/src/main/java/cdle/temperatures/mr/MaxTemperaturePartitioner.java
-/home/usermr/examples/Projects/01-Temperatures/Ex08-Temperatures-07/src/main/java/cdle/temperatures/mr/MaxTemperatureKeyComparator.java
-/home/usermr/examples/Projects/01-Temperatures/Ex08-Temperatures-07/src/main/java/cdle/temperatures/mr/MaxTemperatureApplication.java
-/home/usermr/examples/Projects/01-Temperatures/Ex08-Temperatures-07/src/main/java/cdle/temperatures/mr/MaxTemperatureGroupComparator.java
-/home/usermr/examples/Projects/01-Temperatures/Ex08-Temperatures-07/src/main/java/cdle/temperatures/mr/TemperaturePair.java
-/home/usermr/examples/Projects/01-Temperatures/Ex08-Temperatures-07/src/main/java/cdle/temperatures/mr/MaxTemperatureMapper.java
-/home/usermr/examples/Projects/01-Temperatures/Ex08-Temperatures-07/src/main/java/cdle/temperatures/mr/NcdcRecordParser.java
+C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex08-Temperatures-07\src\main\java\cdle\temperatures\mr\MaxTemperatureApplication.java
+C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex08-Temperatures-07\src\main\java\cdle\temperatures\mr\MaxTemperatureReducer.java
+C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex08-Temperatures-07\src\main\java\cdle\temperatures\mr\MaxTemperaturePartitioner.java
+C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex08-Temperatures-07\src\main\java\cdle\temperatures\mr\MaxTemperatureGroupComparator.java
+C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex08-Temperatures-07\src\main\java\cdle\temperatures\mr\MaxTemperatureKeyComparator.java
+C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex08-Temperatures-07\src\main\java\cdle\temperatures\mr\MaxTemperatureMapper.java
+C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex08-Temperatures-07\src\main\java\cdle\temperatures\mr\TemperaturePair.java
+C:\Isel\MEIC\3-semestre\CLDE\Examples\Projects\01-Temperatures\Ex08-Temperatures-07\src\main\java\cdle\temperatures\mr\NcdcRecordParser.java
